@@ -1,4 +1,4 @@
-[![MasterHead]([https://media.licdn.com/dms/image/D4D16AQHJ8RbHOUDPcg/profile-displaybackgroundimage-shrink_200_800/0/1673041150497?e=2147483647&v=beta&t=0vycUiXpen6CwtR44azzRLF1-Q92U8McoU1SWwEcD3E](https://searchengineland.com/wp-content/seloads/2020/03/code-SS_634574354-1920x1080-1.jpg))
+[![MasterHead]([https://media.licdn.com/dms/image/D4D16AQHJ8RbHOUDPcg/profile-displaybackgroundimage-shrink_200_800/0/1673041150497?e=2147483647&v=beta&t=0vycUiXpen6CwtR44azzRLF1-Q92U8McoU1SWwEcD3E](https://searchengineland.com/wp-content/seloads/2020/03/code-SS_634574354-1920x1080-1.jpg)
 <h1 align="center">Hi 👋, I'm seikosha77</h1>
 <h3 align="center">You are a software enthusiast from Turkey</h3>
 
